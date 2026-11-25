@@ -1,0 +1,6 @@
+{
+  "name": "MONOLITH SUPPLY — Streetwear Manufacturer & 3D Showroom",
+  "description": "Custom streetwear manufacturer and wholesale apparel supplier featuring an interactive 3D curved gallery showroom of hanging garments, 3-level category drill-down, and wholesale quote configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
